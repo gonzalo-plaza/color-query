@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  color: var(--white-color);
+
+  min-width: 288px;
+  min-height: 100vh;
+
+  background-color: var(--shark-color);
+}
+
+.main-container {
+  padding: 16px;
+}
